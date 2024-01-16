@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hitungin</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_regular_calculator">RegularCalculator</string>
+    <string name="title_activity_panjang">Panjang</string>
+    <string name="title_activity_berat">Berat</string>
+    <string name="title_activity_volume">Volume</string>
+    <string name="title_activity_mataUang">Mata Uang</string>
+</resources>
